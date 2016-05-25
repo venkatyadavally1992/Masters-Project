@@ -1,0 +1,68 @@
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Antlr3.Runtime.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\AspNet.ScriptManager.jQuery.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.AspNet.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.Core.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OAuth.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OpenId.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\EntityFramework.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\System.Web.Optimization.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\System.Web.Providers.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\WebGrease.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\EntityFramework.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.Core.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OAuth.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OpenId.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\DotNetOpenAuth.AspNet.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+F:\Ajay Kumar\Assignment Projects _US\Prudhvi\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Antlr3.Runtime.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.Core.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\EntityFramework.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\System.Web.Optimization.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\System.Web.Providers.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\WebGrease.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\EntityFramework.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.Core.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\venky\Desktop\My ASP Project\ShoppingCart\obj\Debug\ShoppingCart.pdb
